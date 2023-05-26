@@ -1,8 +1,9 @@
-﻿
+﻿using CursoDesignPatterns.AulaIndexadores;
+using CursoDesignPatterns.AulaPatternsCriacao.FactoryMethod;
 
 
 //Inicio:AulaIndexadores
-/* using CursoDesignPatterns.AulaIndexadores;
+/* 
 
 Indexadores indexador  = new Indexadores();
 
@@ -16,16 +17,20 @@ for (int i = 0; i < lista.Length; i++)
 for (int i = 0; i < lista.Length; i++)
 {
     System.Console.WriteLine( indexador[i].Mensagem);
-} */
+} 
 //Final:AulaIndexadores
 
+//Inicio:AulaClasseAbstradaHerancaInterfaces
 using CursoDesignPatterns.AulaClasseAbstradaHerancaInterfaces;
 
 Palio palio =  new Palio();
 var ano  = palio.Ano;
 var modelo  = palio.Modelo;
+//Final:AulaClasseAbstradaHerancaInterfaces
+*/
 
 
 
-// See https://aka.ms/new-console-template for more information
-//Console.WriteLine("Hello, World!");
+
+Client client =  new Client();
+client.ExecutarProduto();

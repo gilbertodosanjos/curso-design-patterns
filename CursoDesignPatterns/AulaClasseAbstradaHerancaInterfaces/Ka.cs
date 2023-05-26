@@ -1,6 +1,6 @@
 namespace CursoDesignPatterns.AulaClasseAbstradaHerancaInterfaces;
 
-public class Ka : Carro
+public class Ka : Carro, ICategoriaY
 {
     public override void SalvarModelo(string modelo)
     {
@@ -11,5 +11,10 @@ public class Ka : Carro
     {
         System.Console.WriteLine("Logica KA");
         base.SalvarAno(ano);
+    }
+
+    public void MorodtExclusivoCategoriaY(string entrada)
+    {
+       System.Console.WriteLine($"CategoriaY:{entrada}");
     }
 }
