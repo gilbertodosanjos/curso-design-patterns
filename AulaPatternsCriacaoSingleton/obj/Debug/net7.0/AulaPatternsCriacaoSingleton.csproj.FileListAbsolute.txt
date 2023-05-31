@@ -1,0 +1,12 @@
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPatternsCriacaoSingleton/bin/Debug/net7.0/AulaPatternsCriacaoSingleton.deps.json
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPatternsCriacaoSingleton/bin/Debug/net7.0/AulaPatternsCriacaoSingleton.dll
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPatternsCriacaoSingleton/bin/Debug/net7.0/AulaPatternsCriacaoSingleton.pdb
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPatternsCriacaoSingleton/obj/Debug/net7.0/AulaPatternsCriacaoSingleton.csproj.AssemblyReference.cache
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPatternsCriacaoSingleton/obj/Debug/net7.0/AulaPatternsCriacaoSingleton.GeneratedMSBuildEditorConfig.editorconfig
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPatternsCriacaoSingleton/obj/Debug/net7.0/AulaPatternsCriacaoSingleton.AssemblyInfoInputs.cache
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPatternsCriacaoSingleton/obj/Debug/net7.0/AulaPatternsCriacaoSingleton.AssemblyInfo.cs
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPatternsCriacaoSingleton/obj/Debug/net7.0/AulaPatternsCriacaoSingleton.csproj.CoreCompileInputs.cache
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPatternsCriacaoSingleton/obj/Debug/net7.0/AulaPatternsCriacaoSingleton.dll
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPatternsCriacaoSingleton/obj/Debug/net7.0/refint/AulaPatternsCriacaoSingleton.dll
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPatternsCriacaoSingleton/obj/Debug/net7.0/AulaPatternsCriacaoSingleton.pdb
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPatternsCriacaoSingleton/obj/Debug/net7.0/ref/AulaPatternsCriacaoSingleton.dll

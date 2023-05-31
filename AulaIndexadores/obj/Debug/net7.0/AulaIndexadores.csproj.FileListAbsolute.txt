@@ -1,0 +1,12 @@
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaIndexadores/bin/Debug/net7.0/AulaIndexadores.deps.json
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaIndexadores/bin/Debug/net7.0/AulaIndexadores.dll
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaIndexadores/bin/Debug/net7.0/AulaIndexadores.pdb
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaIndexadores/obj/Debug/net7.0/AulaIndexadores.csproj.AssemblyReference.cache
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaIndexadores/obj/Debug/net7.0/AulaIndexadores.GeneratedMSBuildEditorConfig.editorconfig
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaIndexadores/obj/Debug/net7.0/AulaIndexadores.AssemblyInfoInputs.cache
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaIndexadores/obj/Debug/net7.0/AulaIndexadores.AssemblyInfo.cs
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaIndexadores/obj/Debug/net7.0/AulaIndexadores.csproj.CoreCompileInputs.cache
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaIndexadores/obj/Debug/net7.0/AulaIndexadores.dll
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaIndexadores/obj/Debug/net7.0/refint/AulaIndexadores.dll
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaIndexadores/obj/Debug/net7.0/AulaIndexadores.pdb
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaIndexadores/obj/Debug/net7.0/ref/AulaIndexadores.dll

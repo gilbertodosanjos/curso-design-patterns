@@ -1,0 +1,12 @@
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaClasseAbstradaHerancaInterfaces/bin/Debug/net7.0/AulaClasseAbstradaHerancaInterfaces.deps.json
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaClasseAbstradaHerancaInterfaces/bin/Debug/net7.0/AulaClasseAbstradaHerancaInterfaces.dll
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaClasseAbstradaHerancaInterfaces/bin/Debug/net7.0/AulaClasseAbstradaHerancaInterfaces.pdb
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaClasseAbstradaHerancaInterfaces/obj/Debug/net7.0/AulaClasseAbstradaHerancaInterfaces.csproj.AssemblyReference.cache
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaClasseAbstradaHerancaInterfaces/obj/Debug/net7.0/AulaClasseAbstradaHerancaInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaClasseAbstradaHerancaInterfaces/obj/Debug/net7.0/AulaClasseAbstradaHerancaInterfaces.AssemblyInfoInputs.cache
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaClasseAbstradaHerancaInterfaces/obj/Debug/net7.0/AulaClasseAbstradaHerancaInterfaces.AssemblyInfo.cs
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaClasseAbstradaHerancaInterfaces/obj/Debug/net7.0/AulaClasseAbstradaHerancaInterfaces.csproj.CoreCompileInputs.cache
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaClasseAbstradaHerancaInterfaces/obj/Debug/net7.0/AulaClasseAbstradaHerancaInterfaces.dll
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaClasseAbstradaHerancaInterfaces/obj/Debug/net7.0/refint/AulaClasseAbstradaHerancaInterfaces.dll
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaClasseAbstradaHerancaInterfaces/obj/Debug/net7.0/AulaClasseAbstradaHerancaInterfaces.pdb
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaClasseAbstradaHerancaInterfaces/obj/Debug/net7.0/ref/AulaClasseAbstradaHerancaInterfaces.dll

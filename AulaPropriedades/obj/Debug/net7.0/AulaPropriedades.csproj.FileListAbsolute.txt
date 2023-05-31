@@ -1,0 +1,12 @@
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPropriedades/bin/Debug/net7.0/AulaPropriedades.deps.json
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPropriedades/bin/Debug/net7.0/AulaPropriedades.dll
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPropriedades/bin/Debug/net7.0/AulaPropriedades.pdb
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPropriedades/obj/Debug/net7.0/AulaPropriedades.csproj.AssemblyReference.cache
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPropriedades/obj/Debug/net7.0/AulaPropriedades.GeneratedMSBuildEditorConfig.editorconfig
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPropriedades/obj/Debug/net7.0/AulaPropriedades.AssemblyInfoInputs.cache
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPropriedades/obj/Debug/net7.0/AulaPropriedades.AssemblyInfo.cs
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPropriedades/obj/Debug/net7.0/AulaPropriedades.csproj.CoreCompileInputs.cache
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPropriedades/obj/Debug/net7.0/AulaPropriedades.dll
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPropriedades/obj/Debug/net7.0/refint/AulaPropriedades.dll
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPropriedades/obj/Debug/net7.0/AulaPropriedades.pdb
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPropriedades/obj/Debug/net7.0/ref/AulaPropriedades.dll
