@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/ConsoleTestes/ConsoleTestes.csproj": {}
+    "/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPatternsEstruturalAdapter/AulaPatternsEstruturalAdapter.csproj": {}
   },
   "projects": {
-    "/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/ConsoleTestes/ConsoleTestes.csproj": {
+    "/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPatternsEstruturalAdapter/AulaPatternsEstruturalAdapter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/ConsoleTestes/ConsoleTestes.csproj",
-        "projectName": "ConsoleTestes",
-        "projectPath": "/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/ConsoleTestes/ConsoleTestes.csproj",
+        "projectUniqueName": "/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPatternsEstruturalAdapter/AulaPatternsEstruturalAdapter.csproj",
+        "projectName": "AulaPatternsEstruturalAdapter",
+        "projectPath": "/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPatternsEstruturalAdapter/AulaPatternsEstruturalAdapter.csproj",
         "packagesPath": "/home/anastacia/.nuget/packages/",
-        "outputPath": "/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/ConsoleTestes/obj/",
+        "outputPath": "/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPatternsEstruturalAdapter/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/anastacia/.nuget/NuGet/NuGet.Config"

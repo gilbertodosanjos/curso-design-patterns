@@ -1,0 +1,12 @@
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPatternsEstruturalAdapter/bin/Debug/net7.0/AulaPatternsEstruturalAdapter.deps.json
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPatternsEstruturalAdapter/bin/Debug/net7.0/AulaPatternsEstruturalAdapter.dll
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPatternsEstruturalAdapter/bin/Debug/net7.0/AulaPatternsEstruturalAdapter.pdb
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPatternsEstruturalAdapter/obj/Debug/net7.0/AulaPatternsEstruturalAdapter.csproj.AssemblyReference.cache
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPatternsEstruturalAdapter/obj/Debug/net7.0/AulaPatternsEstruturalAdapter.GeneratedMSBuildEditorConfig.editorconfig
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPatternsEstruturalAdapter/obj/Debug/net7.0/AulaPatternsEstruturalAdapter.AssemblyInfoInputs.cache
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPatternsEstruturalAdapter/obj/Debug/net7.0/AulaPatternsEstruturalAdapter.AssemblyInfo.cs
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPatternsEstruturalAdapter/obj/Debug/net7.0/AulaPatternsEstruturalAdapter.csproj.CoreCompileInputs.cache
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPatternsEstruturalAdapter/obj/Debug/net7.0/AulaPatternsEstruturalAdapter.dll
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPatternsEstruturalAdapter/obj/Debug/net7.0/refint/AulaPatternsEstruturalAdapter.dll
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPatternsEstruturalAdapter/obj/Debug/net7.0/AulaPatternsEstruturalAdapter.pdb
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPatternsEstruturalAdapter/obj/Debug/net7.0/ref/AulaPatternsEstruturalAdapter.dll

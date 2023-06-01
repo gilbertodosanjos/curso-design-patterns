@@ -3,7 +3,8 @@
 //using AulaPatternsCriacaoFactoryAbstract;
 // using AulaPatternsCriacaoSingleton;
 //using AulaPatternsCriacaoBuilder;
-using AulaPatternsCriacaoPrototype;
+//using AulaPatternsCriacaoPrototype;
+//using AulaPatternsEstruturalAdapter.Adapter;
 
 namespace ExemploDI
 {
@@ -34,12 +35,19 @@ namespace ExemploDI
             //AulaPatternsCriacaoSingleton  */
 
 
-            //AulaPatternsCriacaoPrototype
+           /*  //AulaPatternsCriacaoPrototype
             System.Console.WriteLine("Iniciando o robô de consulta");
             Cliente cliente  =  new Cliente();
             cliente.Consumir();
             System.Console.WriteLine("Finalizando o robô de consulta");
-            //AulaPatternsCriacaoPrototype  
+            //AulaPatternsCriacaoPrototype   */
+
+            /* //AulaPatternsEstruturalAdapter
+            CloudComputingClient cloud = new CloudComputingClient();
+            cloud.ProcessarContas("Setembro");
+            //AulaPatternsEstruturalAdapter */
+
+
 
         }
     }

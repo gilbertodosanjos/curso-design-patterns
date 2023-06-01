@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v7.0": {
-      "ConsoleTestes/1.0.0": {
+      "AulaPatternsEstruturalAdapter/1.0.0": {
         "runtime": {
-          "ConsoleTestes.dll": {}
+          "AulaPatternsEstruturalAdapter.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "ConsoleTestes/1.0.0": {
+    "AulaPatternsEstruturalAdapter/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
