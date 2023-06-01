@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net7.0": {
+      "AulaPatternsCriacaoPrototype/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/AulaPatternsCriacaoPrototype.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AulaPatternsCriacaoPrototype.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "AulaPatternsCriacaoPrototype/1.0.0": {
+      "type": "project",
+      "path": "../AulaPatternsCriacaoPrototype/AulaPatternsCriacaoPrototype.csproj",
+      "msbuildProject": "../AulaPatternsCriacaoPrototype/AulaPatternsCriacaoPrototype.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net7.0": [
+      "AulaPatternsCriacaoPrototype >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "/home/anastacia/.nuget/packages/": {}
@@ -31,7 +50,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPatternsCriacaoPrototype/AulaPatternsCriacaoPrototype.csproj": {
+              "projectPath": "/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPatternsCriacaoPrototype/AulaPatternsCriacaoPrototype.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

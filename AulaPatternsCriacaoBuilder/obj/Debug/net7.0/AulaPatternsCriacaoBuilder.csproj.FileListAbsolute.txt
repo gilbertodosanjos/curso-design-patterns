@@ -1,11 +1,11 @@
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPatternsCriacaoBuilder/bin/Debug/net7.0/AulaPatternsCriacaoBuilder.deps.json
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPatternsCriacaoBuilder/bin/Debug/net7.0/AulaPatternsCriacaoBuilder.dll
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPatternsCriacaoBuilder/bin/Debug/net7.0/AulaPatternsCriacaoBuilder.pdb
 /home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPatternsCriacaoBuilder/obj/Debug/net7.0/AulaPatternsCriacaoBuilder.csproj.AssemblyReference.cache
 /home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPatternsCriacaoBuilder/obj/Debug/net7.0/AulaPatternsCriacaoBuilder.GeneratedMSBuildEditorConfig.editorconfig
 /home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPatternsCriacaoBuilder/obj/Debug/net7.0/AulaPatternsCriacaoBuilder.AssemblyInfoInputs.cache
 /home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPatternsCriacaoBuilder/obj/Debug/net7.0/AulaPatternsCriacaoBuilder.AssemblyInfo.cs
 /home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPatternsCriacaoBuilder/obj/Debug/net7.0/AulaPatternsCriacaoBuilder.csproj.CoreCompileInputs.cache
-/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPatternsCriacaoBuilder/bin/Debug/net7.0/AulaPatternsCriacaoBuilder.deps.json
-/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPatternsCriacaoBuilder/bin/Debug/net7.0/AulaPatternsCriacaoBuilder.dll
-/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPatternsCriacaoBuilder/bin/Debug/net7.0/AulaPatternsCriacaoBuilder.pdb
 /home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPatternsCriacaoBuilder/obj/Debug/net7.0/AulaPatternsCriacaoBuilder.dll
 /home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPatternsCriacaoBuilder/obj/Debug/net7.0/refint/AulaPatternsCriacaoBuilder.dll
 /home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPatternsCriacaoBuilder/obj/Debug/net7.0/AulaPatternsCriacaoBuilder.pdb

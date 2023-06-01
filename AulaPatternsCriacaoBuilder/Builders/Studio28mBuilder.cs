@@ -3,25 +3,24 @@ using AulaPatternsCriacaoBuilder.Studios;
 
 namespace AulaPatternsCriacaoBuilder.Builders;
 
-public class Studio24mBuilder : StudioBuilder
+public class Studio28mBuilder : StudioBuilder
 {
-    public Studio24mBuilder()
+    public Studio28mBuilder()
     {
-        studio = new Studio24m();
+        studio = new Studio28m();
     }
     public override void DefinirValorStudio()
     {
-        studio.DefinirValorStudio(180000.00M);
+        studio.DefinirValorStudio(22000.00M);
     }
 
     public override void EscolherFinanciamento()
     {
-        studio.EscolherFinanciamento("FinaciamentoPrataAnastacia");
+        studio.EscolherFinanciamento("FinanciamentoDiamenteAnastacia");
     }
 
     public override void EscolherPiso()
     {
-        studio.EscolherPiso("Ceramica");
+        studio.EscolherPiso("Porcelanato");
     }
-
 }

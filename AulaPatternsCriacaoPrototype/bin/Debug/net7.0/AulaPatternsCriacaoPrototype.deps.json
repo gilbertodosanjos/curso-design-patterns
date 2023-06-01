@@ -6,14 +6,6 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v7.0": {
-      "ConsoleTestes/1.0.0": {
-        "dependencies": {
-          "AulaPatternsCriacaoPrototype": "1.0.0"
-        },
-        "runtime": {
-          "ConsoleTestes.dll": {}
-        }
-      },
       "AulaPatternsCriacaoPrototype/1.0.0": {
         "runtime": {
           "AulaPatternsCriacaoPrototype.dll": {}
@@ -22,11 +14,6 @@
     }
   },
   "libraries": {
-    "ConsoleTestes/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
     "AulaPatternsCriacaoPrototype/1.0.0": {
       "type": "project",
       "serviceable": false,

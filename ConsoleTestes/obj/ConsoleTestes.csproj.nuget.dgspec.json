@@ -4,6 +4,59 @@
     "/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/ConsoleTestes/ConsoleTestes.csproj": {}
   },
   "projects": {
+    "/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPatternsCriacaoPrototype/AulaPatternsCriacaoPrototype.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPatternsCriacaoPrototype/AulaPatternsCriacaoPrototype.csproj",
+        "projectName": "AulaPatternsCriacaoPrototype",
+        "projectPath": "/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPatternsCriacaoPrototype/AulaPatternsCriacaoPrototype.csproj",
+        "packagesPath": "/home/anastacia/.nuget/packages/",
+        "outputPath": "/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPatternsCriacaoPrototype/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/anastacia/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/205/sdk/7.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/ConsoleTestes/ConsoleTestes.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -25,7 +78,11 @@
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPatternsCriacaoPrototype/AulaPatternsCriacaoPrototype.csproj": {
+                "projectPath": "/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPatternsCriacaoPrototype/AulaPatternsCriacaoPrototype.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

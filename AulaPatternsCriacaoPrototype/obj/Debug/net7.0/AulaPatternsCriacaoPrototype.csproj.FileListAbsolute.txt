@@ -1,0 +1,12 @@
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPatternsCriacaoPrototype/bin/Debug/net7.0/AulaPatternsCriacaoPrototype.deps.json
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPatternsCriacaoPrototype/bin/Debug/net7.0/AulaPatternsCriacaoPrototype.dll
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPatternsCriacaoPrototype/bin/Debug/net7.0/AulaPatternsCriacaoPrototype.pdb
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPatternsCriacaoPrototype/obj/Debug/net7.0/AulaPatternsCriacaoPrototype.csproj.AssemblyReference.cache
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPatternsCriacaoPrototype/obj/Debug/net7.0/AulaPatternsCriacaoPrototype.GeneratedMSBuildEditorConfig.editorconfig
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPatternsCriacaoPrototype/obj/Debug/net7.0/AulaPatternsCriacaoPrototype.AssemblyInfoInputs.cache
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPatternsCriacaoPrototype/obj/Debug/net7.0/AulaPatternsCriacaoPrototype.AssemblyInfo.cs
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPatternsCriacaoPrototype/obj/Debug/net7.0/AulaPatternsCriacaoPrototype.csproj.CoreCompileInputs.cache
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPatternsCriacaoPrototype/obj/Debug/net7.0/AulaPatternsCriacaoPrototype.dll
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPatternsCriacaoPrototype/obj/Debug/net7.0/refint/AulaPatternsCriacaoPrototype.dll
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPatternsCriacaoPrototype/obj/Debug/net7.0/AulaPatternsCriacaoPrototype.pdb
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPatternsCriacaoPrototype/obj/Debug/net7.0/ref/AulaPatternsCriacaoPrototype.dll

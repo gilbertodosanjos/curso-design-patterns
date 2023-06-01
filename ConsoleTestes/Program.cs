@@ -3,6 +3,7 @@
 //using AulaPatternsCriacaoFactoryAbstract;
 // using AulaPatternsCriacaoSingleton;
 //using AulaPatternsCriacaoBuilder;
+using AulaPatternsCriacaoPrototype;
 
 namespace ExemploDI
 {
@@ -31,6 +32,14 @@ namespace ExemploDI
             cliente.ConsumirDados();
             System.Console.WriteLine("Finalizando o robô de consulta");
             //AulaPatternsCriacaoSingleton  */
+
+
+            //AulaPatternsCriacaoPrototype
+            System.Console.WriteLine("Iniciando o robô de consulta");
+            Cliente cliente  =  new Cliente();
+            cliente.Consumir();
+            System.Console.WriteLine("Finalizando o robô de consulta");
+            //AulaPatternsCriacaoPrototype  
 
         }
     }

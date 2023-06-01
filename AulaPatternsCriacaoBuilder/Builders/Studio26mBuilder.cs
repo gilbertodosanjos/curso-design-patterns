@@ -16,7 +16,7 @@ public class Studio26mBuilder : StudioBuilder
 
     public override void EscolherFinanciamento()
     {
-        studio.EscolherFinanciamento("FinanciamentoInestFaciaAnastacia");
+        studio.EscolherFinanciamento("FinanciamentoOuroAnastacia");
     }
 
     public override void EscolherPiso()

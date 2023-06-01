@@ -13,10 +13,10 @@ public class Studio : StudioModel
         _valorStudio = valorStudio;
     }
 
-    public override StudioModel clone()
+    public override StudioModel? clone()
     {
         System.Console.WriteLine(new string('-',40));
-        System.Console.WriteLine($"Studio clonado:{tipoStudio}\nFinanciamento:{_tipoFinanciamento}\nValor:{_valorStudio}\n");
+        System.Console.WriteLine($"Studio clonado:{_tipoStudio}\nFinanciamento:{_tipoFinanciamento}\nValor:{_valorStudio.ToString("C")}\n");
         return this.MemberwiseClone() as StudioModel;
     }
 }

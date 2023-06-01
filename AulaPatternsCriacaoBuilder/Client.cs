@@ -22,6 +22,13 @@ public class Client
         ImprimirResultado(studio,"26m");
 
 
+        studioBuilder =  new Studio28mBuilder();
+        director.CosntruirStudio(studioBuilder);
+        studio = studioBuilder.GetStudio();
+        ImprimirResultado(studio,"28m");
+
+
+
     }
 
     private void ImprimirResultado(Studio studio, string imovel)
