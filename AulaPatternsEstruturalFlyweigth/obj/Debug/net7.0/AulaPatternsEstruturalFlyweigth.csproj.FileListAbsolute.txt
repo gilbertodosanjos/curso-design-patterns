@@ -1,0 +1,12 @@
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPatternsEstruturalFlyweigth/bin/Debug/net7.0/AulaPatternsEstruturalFlyweigth.deps.json
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPatternsEstruturalFlyweigth/bin/Debug/net7.0/AulaPatternsEstruturalFlyweigth.dll
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPatternsEstruturalFlyweigth/bin/Debug/net7.0/AulaPatternsEstruturalFlyweigth.pdb
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPatternsEstruturalFlyweigth/obj/Debug/net7.0/AulaPatternsEstruturalFlyweigth.csproj.AssemblyReference.cache
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPatternsEstruturalFlyweigth/obj/Debug/net7.0/AulaPatternsEstruturalFlyweigth.GeneratedMSBuildEditorConfig.editorconfig
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPatternsEstruturalFlyweigth/obj/Debug/net7.0/AulaPatternsEstruturalFlyweigth.AssemblyInfoInputs.cache
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPatternsEstruturalFlyweigth/obj/Debug/net7.0/AulaPatternsEstruturalFlyweigth.AssemblyInfo.cs
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPatternsEstruturalFlyweigth/obj/Debug/net7.0/AulaPatternsEstruturalFlyweigth.csproj.CoreCompileInputs.cache
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPatternsEstruturalFlyweigth/obj/Debug/net7.0/AulaPatternsEstruturalFlyweigth.dll
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPatternsEstruturalFlyweigth/obj/Debug/net7.0/refint/AulaPatternsEstruturalFlyweigth.dll
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPatternsEstruturalFlyweigth/obj/Debug/net7.0/AulaPatternsEstruturalFlyweigth.pdb
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPatternsEstruturalFlyweigth/obj/Debug/net7.0/ref/AulaPatternsEstruturalFlyweigth.dll

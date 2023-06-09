@@ -1,0 +1,12 @@
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPatternsEstruturalBridge/bin/Debug/net7.0/AulaPatternsEstruturalBridge.deps.json
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPatternsEstruturalBridge/bin/Debug/net7.0/AulaPatternsEstruturalBridge.dll
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPatternsEstruturalBridge/bin/Debug/net7.0/AulaPatternsEstruturalBridge.pdb
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPatternsEstruturalBridge/obj/Debug/net7.0/AulaPatternsEstruturalBridge.csproj.AssemblyReference.cache
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPatternsEstruturalBridge/obj/Debug/net7.0/AulaPatternsEstruturalBridge.GeneratedMSBuildEditorConfig.editorconfig
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPatternsEstruturalBridge/obj/Debug/net7.0/AulaPatternsEstruturalBridge.AssemblyInfoInputs.cache
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPatternsEstruturalBridge/obj/Debug/net7.0/AulaPatternsEstruturalBridge.AssemblyInfo.cs
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPatternsEstruturalBridge/obj/Debug/net7.0/AulaPatternsEstruturalBridge.csproj.CoreCompileInputs.cache
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPatternsEstruturalBridge/obj/Debug/net7.0/AulaPatternsEstruturalBridge.dll
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPatternsEstruturalBridge/obj/Debug/net7.0/refint/AulaPatternsEstruturalBridge.dll
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPatternsEstruturalBridge/obj/Debug/net7.0/AulaPatternsEstruturalBridge.pdb
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPatternsEstruturalBridge/obj/Debug/net7.0/ref/AulaPatternsEstruturalBridge.dll
