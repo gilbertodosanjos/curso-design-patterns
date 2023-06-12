@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AulaPatternsEstruturalFlywe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AulaPatternsEstruturalBridge", "AulaPatternsEstruturalBridge\AulaPatternsEstruturalBridge.csproj", "{34F97603-6A54-4462-9303-A07275F3D3A5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AulaPatternsEstruturalComposite", "AulaPatternsEstruturalComposite\AulaPatternsEstruturalComposite.csproj", "{92600335-CA41-46DC-B1D2-FCDC51290A79}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -84,5 +86,9 @@ Global
 		{34F97603-6A54-4462-9303-A07275F3D3A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{34F97603-6A54-4462-9303-A07275F3D3A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{34F97603-6A54-4462-9303-A07275F3D3A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92600335-CA41-46DC-B1D2-FCDC51290A79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92600335-CA41-46DC-B1D2-FCDC51290A79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92600335-CA41-46DC-B1D2-FCDC51290A79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92600335-CA41-46DC-B1D2-FCDC51290A79}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

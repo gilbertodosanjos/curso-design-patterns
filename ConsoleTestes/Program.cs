@@ -9,6 +9,7 @@
 //using AulaPatternsEstruturalBridge;
 //using AulaPatternsEstruturalBridge.Abstracao;
 //using AulaPatternsEstruturalBridge.Implementacao;
+using AulaPatternsEstruturalComposite;
 
 namespace ExemploDI
 {
@@ -88,6 +89,14 @@ namespace ExemploDI
                  System.Console.WriteLine($"Passo {i} de 20 do robô de consulta");
              }
             System.Console.WriteLine("Finalizando o robô de consulta"); */
+
+
+
+            //AulaPatternsEstruturalComposite
+            System.Console.WriteLine("Iniciando o robô de consulta");
+            Client cliente = new Client();
+            cliente.EfetuarCompra();
+            System.Console.WriteLine("Finalizando o robô de consulta");
         }
     }
 }

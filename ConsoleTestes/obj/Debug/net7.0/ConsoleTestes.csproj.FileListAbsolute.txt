@@ -13,3 +13,6 @@
 /home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/ConsoleTestes/obj/Debug/net7.0/ConsoleTestes.pdb
 /home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/ConsoleTestes/obj/Debug/net7.0/ConsoleTestes.genruntimeconfig.cache
 /home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/ConsoleTestes/obj/Debug/net7.0/ref/ConsoleTestes.dll
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/ConsoleTestes/bin/Debug/net7.0/AulaPatternsEstruturalComposite.dll
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/ConsoleTestes/bin/Debug/net7.0/AulaPatternsEstruturalComposite.pdb
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/ConsoleTestes/obj/Debug/net7.0/ConsoleTestes.csproj.CopyComplete

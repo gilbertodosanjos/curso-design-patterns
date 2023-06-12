@@ -1,0 +1,12 @@
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPatternsEstruturalComposite/obj/Debug/net7.0/AulaPatternsEstruturalComposite.csproj.AssemblyReference.cache
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPatternsEstruturalComposite/obj/Debug/net7.0/AulaPatternsEstruturalComposite.GeneratedMSBuildEditorConfig.editorconfig
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPatternsEstruturalComposite/obj/Debug/net7.0/AulaPatternsEstruturalComposite.AssemblyInfoInputs.cache
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPatternsEstruturalComposite/obj/Debug/net7.0/AulaPatternsEstruturalComposite.AssemblyInfo.cs
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPatternsEstruturalComposite/obj/Debug/net7.0/AulaPatternsEstruturalComposite.csproj.CoreCompileInputs.cache
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPatternsEstruturalComposite/bin/Debug/net7.0/AulaPatternsEstruturalComposite.deps.json
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPatternsEstruturalComposite/bin/Debug/net7.0/AulaPatternsEstruturalComposite.dll
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPatternsEstruturalComposite/bin/Debug/net7.0/AulaPatternsEstruturalComposite.pdb
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPatternsEstruturalComposite/obj/Debug/net7.0/AulaPatternsEstruturalComposite.dll
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPatternsEstruturalComposite/obj/Debug/net7.0/refint/AulaPatternsEstruturalComposite.dll
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPatternsEstruturalComposite/obj/Debug/net7.0/AulaPatternsEstruturalComposite.pdb
+/home/anastacia/Documentos/ProjetosEstudos/curso-design-patterns/AulaPatternsEstruturalComposite/obj/Debug/net7.0/ref/AulaPatternsEstruturalComposite.dll
